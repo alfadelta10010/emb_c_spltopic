@@ -1,6 +1,5 @@
-Write a program to print the biggest value among the three variables, without if-else logic
+1. Write a program to pint bigger value among the two variables. Get input from user for the values and return the bigger one. Print error message and stop if any of the numbers are negative
 
-Write a program to print biggest value among the three varibkes. Print error message if any of the numbers are ngative
+2. Write a program to print biggest value among the three varibkes. Print error message if any of the numbers are ngative
 
-Write a program to pint bigger value among the two variables. Get input from user for the values and return the bigger one. Print error message and stop if any of the numbers are negative
-
+3. Write a program to print the biggest value among the three variables, without if-else logic
