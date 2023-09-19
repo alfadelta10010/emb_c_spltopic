@@ -20,6 +20,6 @@ int main()
 			printf("%d < %d\n", a, b);
 	}
 	else
-		printf("error\n");
+		printf("Error\n");
 	return 0;
 }
